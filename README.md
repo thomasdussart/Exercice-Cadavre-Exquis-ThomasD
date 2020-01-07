@@ -1,3 +1,3 @@
-# Laise moi zoom
+# Laisse moi zoom
 # zoom
 # zang
