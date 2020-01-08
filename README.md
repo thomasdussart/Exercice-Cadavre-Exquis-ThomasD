@@ -13,3 +13,8 @@
 ### you touch my tralala ... ###
 
 *sans fautes*
+
+#_italique c'est pas mal_
+<ul>1</ul>
+<ol>2</ol>
+<ol>3</ol>
