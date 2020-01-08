@@ -14,7 +14,7 @@
 
 *sans fautes*
 
-#_italique c'est pas mal_
-<ol>1. ça fonctione </ol>
+_italique c'est pas mal_
+<ul>1. ça fonctione </ul>
 <ul>2. ou pas </ul>
-<ol>3. mytère</ol>
+<ul>3. mytère</ul>
