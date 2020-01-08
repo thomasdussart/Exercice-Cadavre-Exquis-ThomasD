@@ -15,6 +15,6 @@
 *sans fautes*
 
 #_italique c'est pas mal_
-<ul>1</ul>
-<ol>2</ol>
-<ol>3</ol>
+<ol>1. ça fonctione </ol>
+<ul>2. ou pas </ul>
+<ol>3. mytère</ol>
