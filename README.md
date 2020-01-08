@@ -14,7 +14,3 @@
 
 *sans fautes*
 
-_italique c'est pas mal_
-<ul>1. ça fonctione </ul>
-<ul>2. ou pas </ul>
-<ul>3. mytère</ul>
